@@ -2,4 +2,7 @@ Distribuição Espacial da Degradação Ambiental na Região MATOPIBA nos Anos d
 
 Neste trabalho, foi realizada a coleta de dados de degradação ambiental para um período de 20 anos, utilizando as informações disponíveis no MapBiomas Degradação. Além disso, foram utilizados dados de área colhida e valor de produção disponíveis no IBGE-SIDRA.
 
+https://brasil.mapbiomas.org/dados-do-modulo-mapbiomas-degradacao/
+https://sidra.ibge.gov.br/pesquisa/pam/tabelas
+
 Para a análise espacial dos dados, foi utilizado o Índice de Moran Global (I-Moran) e, em seguida, o modelo Local Indicators of Spatial Association (LISA). Dessa forma, foi possível analisar como essas variáveis se comportaram espacialmente ao longo do tempo.
